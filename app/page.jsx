@@ -1,7 +1,16 @@
+import Heading from '@/components/Heading';
+
 export default function Home() {
   return (
     <>
-      <h1>Home Page</h1>
+      <Heading>Home Page</Heading>
+      <img
+        src="/images/2.jpg"
+        alt=""
+        width={320}
+        height={320}
+        className="mb-2 rounded-none"
+      />
       <p>Hello, Next.js</p>
     </>
   );
