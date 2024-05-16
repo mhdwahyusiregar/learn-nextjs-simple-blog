@@ -1,4 +1,5 @@
 import Heading from '@/components/Heading';
+import ShareLinkButton from '@/components/ShareLinkButton';
 import { getPost } from '@/lib/post';
 
 export async function generateMetadata({ params: { slug } }) {
@@ -15,9 +16,12 @@ export default async function PostPage({ params: { slug } }) {
   return (
     <>
       <Heading>{post.title}</Heading>
-      <p className="pb-2 text-sm italic">
-        {post.date} - {post.author}
-      </p>
+      <div className="flex items-baseline gap-3">
+        <p className="pb-2 text-sm italic">
+          {post.date} - {post.author}
+        </p>
+        <ShareLinkButton />
+      </div>
       <img
         src={post.image}
         alt=""
