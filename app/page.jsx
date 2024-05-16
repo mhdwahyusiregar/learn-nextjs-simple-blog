@@ -1,5 +1,10 @@
 import Heading from '@/components/Heading';
 
+export const metadata = {
+  title: 'Situs Next.js',
+  description: 'Kumpula tutorial belajar Next.js dari dasar',
+};
+
 export default function Home() {
   return (
     <>

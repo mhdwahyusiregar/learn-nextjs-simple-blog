@@ -1,6 +1,6 @@
 ---
-title: 'Belajar Next.js'
-image: '/images/7.jpg'
+title: 'Belajar route Next.js'
+image: '/images/6.jpg'
 description: 'Deskripsi singkat lur'
 date: '16/05/2024'
 author: 'admin'
