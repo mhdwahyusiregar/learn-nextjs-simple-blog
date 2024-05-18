@@ -22,3 +22,4 @@ const posts = JSON.stringify(body, null, 2);
 
 const file = 'scripts/strapi-response.json';
 writeFileSync(file, posts, 'utf8');
+// untuk ngambil banyak data
