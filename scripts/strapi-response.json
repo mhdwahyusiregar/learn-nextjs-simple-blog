@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "attributes": {
+        "slug": "perahu-kertas",
+        "title": "Perahu Kertas",
+        "description": "Kisah romansa remaja tentang perjalanan mencari identitas dan makna dalam kehidupan.",
+        "publishedAt": "2024-05-17T04:29:23.292Z",
+        "body": "Perahu Kertas\" mengikuti perjalanan Kugy dan Keenan, dua remaja yang saling mencintai namun terpisahkan oleh berbagai rahasia dan perbedaan. Dalam upaya untuk mencari jati diri dan arti persahabatan, mereka melakukan perjalanan yang membingungkan dan mendalam. Novel ini menyentuh tema-tema seperti pertumbuhan pribadi, keberanian menghadapi rintangan, dan kekuatan cinta dalam mengatasi kesulitan hidup.",
+        "author": "poter",
+        "image": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "url": "/uploads/5_9f550ab76d.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "slug": "pulang",
+        "title": "Pulang",
+        "description": " Sebuah kisah tentang cinta, pengkhianatan, dan perjuangan politik di tengah-tengah peristiwa sejarah Indonesia.",
+        "publishedAt": "2024-05-17T04:28:46.313Z",
+        "body": "Pulang\" mengisahkan tentang perjalanan hidup dua keluarga yang terpisah oleh peristiwa politik di Indonesia. Dari era 1965, ketika kekuasaan Soeharto menggulingkan pemerintahan Sukarno, hingga masa Orde Baru, novel ini mengungkapkan dampak pribadi dari kekuasaan politik dan pengkhianatan dalam hubungan personal. Dengan latar belakang yang kuat dari peristiwa sejarah Indonesia, \"Pulang\" menyoroti perjuangan, kehilangan, dan harapan dalam mencari keadilan dan kebenaran.",
+        "author": "Kyle Simpson",
+        "image": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "url": "/uploads/7_80bf628c01.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "slug": "ayat-ayat-cinta",
+        "title": "Ayat-Ayat Cinta",
+        "description": "Kisah cinta antara seorang mahasiswa Indonesia dan perempuan Arab di Kairo, yang diwarnai oleh konflik agama dan budaya.",
+        "publishedAt": "2024-05-17T04:27:58.128Z",
+        "body": "Ayat-Ayat Cinta\" mengisahkan tentang Fahri, seorang mahasiswa Indonesia yang belajar di Kairo, dan perjalanan cintanya dengan Aisha, seorang wanita Arab yang taat beragama. Novel ini menjelajahi konflik-konflik kompleks yang muncul dari perbedaan budaya, agama, dan pandangan hidup. Dalam penggambaran yang detail tentang kehidupan di Kairo, novel ini juga menyoroti nilai-nilai spiritualitas dan toleransi.\n",
+        "author": "wahyu",
+        "image": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "url": "/uploads/7_f75344e46b.jpg"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 3,
+      "pageCount": 2,
+      "total": 6
+    }
+  }
+}
