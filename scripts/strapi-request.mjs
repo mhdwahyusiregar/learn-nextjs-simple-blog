@@ -11,7 +11,7 @@ const url =
         image: { fields: ['url'] },
       },
       sort: ['publishedAt:desc'],
-      pagination: { pageSize: 3 },
+      pagination: { pageSize: 3, page: 1 },
     },
     { encodeValuesOnly: true },
   );

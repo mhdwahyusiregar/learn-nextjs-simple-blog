@@ -1,4 +1,5 @@
 import Heading from '@/components/Heading';
+import Image from 'next/image';
 
 export const metadata = {
   title: 'Contact',
@@ -8,7 +9,7 @@ export default function ContactPage() {
   return (
     <>
       <Heading>contact page</Heading>
-      <img
+      <Image
         src="/images/1.jpg"
         alt=""
         width={320}

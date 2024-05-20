@@ -8,7 +8,7 @@ export default function AboutPage() {
   return (
     <>
       <Heading>about page</Heading>
-      <img
+      <image
         src="/images/5.jpg"
         alt=""
         width={320}
